@@ -7,7 +7,7 @@
   "version": "1.0.2",
   "description": "React Native Wrapper for ZSSRichTextEditor",
   "main": "index.js",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "Apache-2.0",
   "dependencies": {
     "react-native-webview-bridge-updated": "^1.0.0"
   },
